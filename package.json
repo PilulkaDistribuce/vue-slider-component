@@ -69,7 +69,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/s-sasaki-0529/vue-slider-component.git"
+    "url": "git+https://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:x-oauth-basic@github.com/PilulkaDistribuce/vue-slider-component.git"
   },
   "typings": "./typings/index.d.ts"
 }
